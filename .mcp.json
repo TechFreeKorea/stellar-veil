@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "bugherd": {
+      "command": "node",
+      "args": [
+        "qa/tools/bugherd_mcp.js"
+      ]
+    }
+  }
+}
